@@ -25,5 +25,8 @@ public class Base64Utils {
         return decodedData;
     }
 
+    public static void main(String[] args) {
+        System.out.println(110);
+    }
 
 }
