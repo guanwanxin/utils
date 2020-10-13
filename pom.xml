@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.10</version>
+			<version>4.13.1</version>
 			<scope>test</scope><!-- 依赖的范围 -->
 			<optional></optional><!-- 设置依赖是否可选 -->
 			<exclusions></exclusions><!-- 排除依赖传递列表 -->
